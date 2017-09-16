@@ -40,3 +40,4 @@ But then you notice a rat entering that opening too.
 [Drink some coffee.](../coffee/coffee.md)
 [Sleep]
 
+and wake up the next morning only to repaet the event again
